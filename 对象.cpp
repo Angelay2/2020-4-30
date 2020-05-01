@@ -45,7 +45,8 @@ public:
 		cout << a << endl;
 	}
 };
-// 空类
+
+// 空类 大小为1
 class E{};
 
 B globalB; // 在数据段
